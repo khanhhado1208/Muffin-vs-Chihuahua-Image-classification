@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e3a1b1af-b44b-46e6-8836-8a9a43b8dc9a)# Muffin-vs-Chihuahua-Image-classification
+# Muffin-vs-Chihuahua-Image-classification
 
 ## Features
 
